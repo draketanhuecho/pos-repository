@@ -1,0 +1,1 @@
+No database export required for Module 1 as static PHP arrays were used as temporary data sources.
